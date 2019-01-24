@@ -2,60 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Chris Bucholz</title>
-    <link>chrisbucholz.github.io/projects/</link>
+    <link>https://chrisbucholz.github.io/projects/</link>
     <description>Recent content in Projects on Chris Bucholz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="chrisbucholz.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://chrisbucholz.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Full Stack Chat App</title>
-      <link>chrisbucholz.github.io/projects/chatui/</link>
+      <link>https://chrisbucholz.github.io/projects/chatui/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>chrisbucholz.github.io/projects/chatui/</guid>
+      <guid>https://chrisbucholz.github.io/projects/chatui/</guid>
       <description>A full stack chat app, using React ES6 for the front end, Socket.io for transport, and Node.js + Express for the backend. Comes with a friendly Chatbot (friendliness not guaranteed.)
 Check out the demo here or view the code on Glitch here.</description>
     </item>
     
     <item>
       <title>Image Uploading Applet</title>
-      <link>chrisbucholz.github.io/projects/fileuploader/</link>
+      <link>https://chrisbucholz.github.io/projects/fileuploader/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>chrisbucholz.github.io/projects/fileuploader/</guid>
+      <guid>https://chrisbucholz.github.io/projects/fileuploader/</guid>
       <description>A full stack applet for uploading an image to a server and previewing it. Front end is in React, with a little drag-and-drop style widget. Back end is in Node.js/Express, hosted on Glitch.com.
 Check out the demo here or view the code on Glitch here.</description>
     </item>
     
     <item>
       <title>Login UI</title>
-      <link>chrisbucholz.github.io/projects/loginui/</link>
+      <link>https://chrisbucholz.github.io/projects/loginui/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>chrisbucholz.github.io/projects/loginui/</guid>
+      <guid>https://chrisbucholz.github.io/projects/loginui/</guid>
       <description>This is just a simple front-end only Login UI element, implemented in React on codepen.io.
 Check out the pen here.</description>
     </item>
     
     <item>
       <title>Product Page UI</title>
-      <link>chrisbucholz.github.io/projects/productpage/</link>
+      <link>https://chrisbucholz.github.io/projects/productpage/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>chrisbucholz.github.io/projects/productpage/</guid>
+      <guid>https://chrisbucholz.github.io/projects/productpage/</guid>
       <description>A mildly full-stack product page UI with an image carousel. Front end is in React, with data pulled in from a Firestore.
 Check out the pen here.</description>
     </item>
     
     <item>
       <title>Slumber</title>
-      <link>chrisbucholz.github.io/projects/slumber/</link>
+      <link>https://chrisbucholz.github.io/projects/slumber/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>chrisbucholz.github.io/projects/slumber/</guid>
+      <guid>https://chrisbucholz.github.io/projects/slumber/</guid>
       <description>Slumber is an Incrementer (&amp;ldquo;clicker&amp;rdquo;) game with strong narrative elements I&amp;rsquo;m implementing in React-Redux. It&amp;rsquo;s still very much a work in progress, but the first third of the game is fairly playable.
 On a side-note, Redux is absolutely not the right solution for state management for something with a traditional game loop, but it&amp;rsquo;s been very interesting exploring its limits in this application.
 You can view the work in progress here: Slumber</description>
@@ -63,10 +63,10 @@ You can view the work in progress here: Slumber</description>
     
     <item>
       <title>URL Lengthener</title>
-      <link>chrisbucholz.github.io/projects/urlshortener/</link>
+      <link>https://chrisbucholz.github.io/projects/urlshortener/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>chrisbucholz.github.io/projects/urlshortener/</guid>
+      <guid>https://chrisbucholz.github.io/projects/urlshortener/</guid>
       <description>A full stack applet intended for shortening URLs. Front end is React. Back end is in Node.js/Express and MongoDB, hosted on glitch.com.
 Due to the length of Glitch&amp;rsquo;s default project urls, this code is more commonly a URL lengthener in its current state, hence the name. If for some reason you wanted to invest in this technology, we may first need to set some money aside for a shorter domain.</description>
     </item>
