@@ -11,6 +11,16 @@
     
     
     <item>
+      <title>Blurter</title>
+      <link>https://chrisbucholz.github.io/projects/blurter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisbucholz.github.io/projects/blurter/</guid>
+      <description>Blurter is a tool for the construction of branching dialog trees and other interactive narratives. Implemented in React, its design is heavily by my background working as a game writer/designer.
+You can view the work in progress here: Blurter</description>
+    </item>
+    
+    <item>
       <title>Full Stack Chat App</title>
       <link>https://chrisbucholz.github.io/projects/chatui/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
